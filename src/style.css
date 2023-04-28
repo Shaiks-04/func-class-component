@@ -1,0 +1,37 @@
+.heading{
+    text-shadow:3px 3px 3px rgb(236, 173, 173);
+}
+button{
+    padding: 17px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 70px;
+    background-color: rgb(80, 168, 158);
+}
+button:hover{
+    background-color: rgb(127, 222, 222);
+}
+.func-box{
+    border: 2px solid rgb(21, 12, 12);
+    width:500px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color:rgb(46, 218, 195);
+    position:absolute;
+    left:50px;
+    top:260px;
+}
+.class-box{
+    border: 2px solid rgb(21, 12, 12);
+    width:500px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color:rgb(208, 41, 105);
+    position:absolute;
+    right:70px;
+    top:260px;
+}
